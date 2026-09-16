@@ -34,7 +34,7 @@ def home():
     </head>
     <body>
         <div class="container">
-            <h1>سلام! وب‌سایت شما آنلاین است 🚀</h1>
+            <h1>بهنام آنلاین🚀</h1>
             <p>این یک برنامه ساده با FastAPI و آماده دپلوی روی Railway است.</p>
         </div>
     </body>
